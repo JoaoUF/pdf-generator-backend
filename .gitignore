@@ -1,0 +1,9 @@
+# IDE FOLDERS
+.idea/
+
+# ENVIROMENT FILES
+.env
+venv/
+
+# DJANGO DEFAULT FILES
+db.sqlite3
